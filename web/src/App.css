@@ -1,14 +1,3 @@
-:root {
-    --text-color: #e1e3e4;
-    --primary-color: #56d6f5;
-    --secondary-color: #bfc8cb;
-    --component-color: #272727;
-    --background-color: #191c1d;
-
-    --border-radius: 14px;
-    --box-shadow: 0 4px 8px 4px rgb(0, 0, 0, 0.3);
-}
-
 html, body {
     width: 100%;
     height: 100%;

@@ -3,6 +3,7 @@
 
 # Work dir and files
 .idea
+.vscode
 node_modules
 
 # Binaries for programs and plugins

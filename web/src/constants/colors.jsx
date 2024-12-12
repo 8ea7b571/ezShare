@@ -6,4 +6,8 @@ const GLOBAL_COLORS = {
     BACKGROUND: '#191c1d',
 };
 
-export default { GLOBAL_COLORS };
+const SPECIAL_COLORS = {
+    SIMPLE_GREY: '#999999',
+}
+
+export default { GLOBAL_COLORS, SPECIAL_COLORS };

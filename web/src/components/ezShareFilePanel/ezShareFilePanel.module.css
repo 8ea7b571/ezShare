@@ -1,7 +1,0 @@
-.shareFileBox {
-    width: 100%;
-    height: 100%;
-    box-shadow: var(--box-shadow);
-    border-radius: var(--border-radius);
-    background: var(--component-color);
-}
